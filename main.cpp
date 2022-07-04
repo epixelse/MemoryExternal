@@ -1,6 +1,3 @@
-// Learning C++.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
 #include "proc.h"
 #include "mem.h"
